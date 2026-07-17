@@ -31,4 +31,4 @@ API REST desenvolvida em Java com Spring Boot para auxiliar motoristas de aplica
 
 ## 👨‍💻 Autor
 
-Feito por **Abner** — em desenvolvimento 🚀# DiverHub
+Feito por **Abner** — em desenvolvimento 🚀
